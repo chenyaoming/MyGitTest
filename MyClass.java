@@ -8,7 +8,7 @@ public MyClass{
      public static void main(String[] arg){
 	     
 	     
-
+             save(1);
 	     System.out.println("1111");
 
 
