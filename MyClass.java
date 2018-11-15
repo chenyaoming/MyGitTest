@@ -6,7 +6,10 @@ public MyClass{
      public void aa(){}bbbb
      public void aa(){}aaa
      public static void main(String[] arg){
-	     
+	    public void ddd(){
+	    
+	    }
+
 	    dd
 	    dd    
              save(1);
