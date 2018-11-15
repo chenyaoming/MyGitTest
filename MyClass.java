@@ -13,7 +13,9 @@ public MyClass{
 	     System.out.println("1111");
              save(1);
 
-
+            public void ddeee(){
+	    
+	    }
 
      }
 }
