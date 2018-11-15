@@ -1,4 +1,5 @@
 package aa;
+aa=2
 aaaaaaaaaaaaaaaaaaaaaaaaa
 public MyClass{
      public void aa(){}
