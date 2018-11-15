@@ -11,7 +11,7 @@ public MyClass{
 	    dd    
              save(1);
 	     System.out.println("1111");
-
+             save(1);
 
 
 
