@@ -7,7 +7,7 @@ public MyClass{
      public void aa(){}aaa
      public static void main(String[] arg){
 	    public void ddd(){
-	    
+sssssssssssssssssss	    
 	    }
 
 	    dd
